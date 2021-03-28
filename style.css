@@ -36,9 +36,8 @@ h1 {
 }
 
 .position {
-    position: relative;
-    margin: 4px;
-    padding:4px;
+   position: relative;
+    left:15px;
 }
 
 .center {
